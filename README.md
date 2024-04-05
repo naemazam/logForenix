@@ -20,13 +20,36 @@ Forenix is a powerful shell CLI tool designed to automate the collection of fore
 
 ## Dependencies
 
-- [List any dependencies here]
+- net-tools - networking utilities for Linux
 
 ## How to Run
 
-1. Clone this repository: `git clone https://github.com/naemazam/logForenix.git`
-2. Navigate to the directory: `cd logForenix`
-3. Execute the script: `./logForenix.sh`
+Sure, here are the steps formatted nicely in Markdown:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/naemazam/logForenix.git
+   ```
+
+2. Navigate to the directory:
+   ```bash
+   cd logForenix
+   ```
+
+3. 📝 Copy `logForenix.sh` to your local machine.
+
+4. 🔑 Grant execution permissions by executing `chmod +x logForenix.sh`.
+
+5. 🏃‍♂️ Run the script using the following command:
+   ```bash
+   sudo ./logForenix.sh
+   ```
+
+6. ⏳ Wait patiently until the script finishes collecting the logs.
+
+7. 📦 Once completed, find the compressed logs in `/opt/` directory. dir named as <'hostname'>.tar.gz
+
+
 
 ## Testing Linux OS List
 
