@@ -67,6 +67,15 @@ Sure, here are the steps formatted nicely in Markdown:
 
 [Add screenshots here if available]
 
+## ⚠️ Warning:
+
+Running Forenix on production systems without proper understanding and authorization may lead to unintended consequences, including data loss or system instability. Always ensure you have appropriate permissions and follow best practices when using Forenix or any other forensic tool in sensitive environments.
+
+## About the Author
+
+Forenix is developed and maintained by [Naem Azam](https://github.com/naemazam). Connect with me on [LinkedIn](https://www.linkedin.com/in/your_profile) for any inquiries or collaboration opportunities.
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
