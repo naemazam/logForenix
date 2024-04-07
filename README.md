@@ -23,7 +23,7 @@ Forenix is a powerful shell CLI tool designed to automate the collection of fore
 
 ## Dependencies
 
-- net-tools - networking utilities for Linux
+- It Will Check Automatic and Install .. Relax
 
 ## How to Run
 
