@@ -29,12 +29,12 @@ Forenix is a powerful shell CLI tool designed to automate the collection of fore
 
 Sure, here are the steps formatted nicely in Markdown:
 
-1. Clone this repository:
+1. 🫰 Clone this repository:
    ```bash
    git clone https://github.com/naemazam/logForenix.git
    ```
 
-2. Navigate to the directory:
+2. 🚔 Navigate to the directory:
    ```bash
    cd logForenix
    ```
@@ -73,6 +73,7 @@ Sure, here are the steps formatted nicely in Markdown:
 
 ## Screenshots
 
+![Complete](https://github.com/naemazam/logForenix/blob/main/img/logForenix2.png)
 [Add screenshots here if available]
 
 ## ⚠️ Warning:
