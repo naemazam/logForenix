@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Logo">
+  <img src="https://github.com/naemazam/logForenix/blob/main/img/log.png" alt="Logo">
 </p>
 
 # 🕵️ log Forenix🕵️
