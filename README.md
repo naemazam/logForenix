@@ -11,7 +11,6 @@ Welcome to log Forenix (Log + Forencis + Linux ) - Your Linux Forensic Artifacts
 
 Forenix is a powerful shell CLI tool designed to automate the collection of forensic artifacts in Linux systems. It streamlines data collection processes during incident response engagements, reducing dependency on remote tools/agents. With built-in functionality and simplicity, Forenix makes forensic artifact collection a breeze!
 
-![Log Forenix ](https://github.com/naemazam/logForenix/blob/main/img/IMG_6118.JPG)
 
 ## Features
 
