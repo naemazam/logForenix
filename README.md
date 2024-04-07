@@ -40,16 +40,21 @@ Sure, here are the steps formatted nicely in Markdown:
 
 3. 📝 Copy `logForenix.sh` to your local machine.
 
-4. 🔑 Grant execution permissions by executing `chmod +x logForenix.sh`.
+4. 🔑 Grant execution permissions by executing
 
-5. 🏃‍♂️ Run the script using the following command:
+   ```bash
+   chmod +x logForenix.sh
+   ```
+
+6. 🏃‍♂️ Run the script using the following command:
+
    ```bash
    sudo ./logForenix.sh
    ```
 
-6. ⏳ Wait patiently until the script finishes collecting the logs.
+8. ⏳ Wait patiently until the script finishes collecting the logs.
 
-7. 📦 Once completed, find the compressed logs in `/opt/` directory. dir named as <'hostname'>.tar.gz
+9. 📦 Once completed, find the compressed logs in `/opt/` directory. dir named as <'hostname'>.tar.gz
 
 
 
